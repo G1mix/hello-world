@@ -1,4 +1,4 @@
 # hello-world
 idk
 
-am using github
+i am using github
